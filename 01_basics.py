@@ -31,7 +31,7 @@ import busio
 ssl_private_key_filepath = '/home/pi/demo_private.pem'
 ssl_algorithm = 'RS256' # Either RS256 or ES256
 root_cert_filepath = '/home/pi/roots.pem'
-project_id = 'casaminha-2e0ca'
+project_id = 'xxxxxxxxxxxxx'
 gcp_location = 'us-central1'
 registry_id = 'my-iot-devices'
 device_id = 'my-iot-dev0001'
